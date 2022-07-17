@@ -6,7 +6,7 @@ Laboratório de projeto em engenharia informática
 
 -> Estudo de Incorporação de Acessibilidade em Realidade Virtual e Aumentada
 
--> Check the unity application of unity in this page: https://1drv.ms/u/s!AnvcrsnU-VUmgQO7v9snzm01igPl?e=Z7IT8B
+-> Check the unity application in this page: https://1drv.ms/u/s!AnvcrsnU-VUmgQO7v9snzm01igPl?e=Z7IT8B
 
 -> Check the final version of the apk in this page: https://1drv.ms/u/s!AnvcrsnU-VUmpmTi1vUUEgwDb8AO?e=nrd2Kd
 
