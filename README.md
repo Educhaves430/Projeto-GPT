@@ -2,22 +2,16 @@ Departamento de Engenharias Escola de Ciências e Tecnologia Universidade de Tr�
 
 Licenciatura em Engenharia Informática / 3º Ano
 
-Interação Pessoa Computador
+Laboratório de projeto em engenharia informática
 
--> Uma aplicação desenvolvida com o propósito de ajudar cianças (4 a 6 anos) a ter uma primeira interação com os números.
+-> Estudo de Incorporação de Acessibilidade em Realidade Virtual e Aumentada
 
--> A aplicação 'FunTable4All', está implementad em Python, com recurso ao Kivy.
+-> Check the unity application in this page: https://1drv.ms/u/s!AnvcrsnU-VUmgQO7v9snzm01igPl?e=Z7IT8B
 
--> Integração de reacTIVision.
+-> Check the final version of the apk in this page: https://1drv.ms/u/s!AnvcrsnU-VUmpmTi1vUUEgwDb8AO?e=nrd2Kd
 
 Realizado por:
-
-- Diogo Medeiros, nº70633, https://github.com/Necas209
 
 - Eduardo Chaves, nº70611, https://github.com/Educhaves430
 
 - João Rodrigues, nº70579, https://github.com/joaohcr
-
-- Pedro Silva, nº70649, https://github.com/al70649
-
-- Rui Pinto, nº70648, https://github.com/RuiPinto0
