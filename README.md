@@ -6,9 +6,9 @@ Laboratório de projeto em engenharia informática
 
 -> Estudo de Incorporação de Acessibilidade em Realidade Virtual e Aumentada
 
--> Check the unity application in this page: https://1drv.ms/u/s!AnvcrsnU-VUmgQO7v9snzm01igPl?e=Z7IT8B
+-> Check the unity application: https://github.com/Educhaves430/Projeto-GPT/blob/main/Apk%20Final%20Version/GPT%20APK%20v_Final%20-%20Code.zip
 
--> Check the final version of the apk in this page: https://1drv.ms/u/s!AnvcrsnU-VUmpmTi1vUUEgwDb8AO?e=nrd2Kd
+-> Check the final version of the apk: https://github.com/Educhaves430/Projeto-GPT/blob/main/Apk%20Final%20Version/GPT_APK_v_Final.apk
 
 Realizado por:
 
